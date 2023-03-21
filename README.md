@@ -11,7 +11,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 1. Clone the repository:
 ```console
-https://github.com/Lexxyla/monty.git
+https://github.com/princexz/monty.git
 ```
 
 ## Usage
@@ -62,5 +62,19 @@ basics.c    general.c  main.h  memory.c   shell.c
 builders.c  helper.c   hsh          README.md  test
 ```
 
-### Authors
-[Bamidele Adefolaju](https://github.com/Lexxyla) and [Akinloye Oluwakemi](https://github.com/Natacha-07)
+## Authors :black_nib:
+
+[Prince Solomon](https://github.com/princexz) and [Thulile Makhubela](https://github.com/shadowpro2088)
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//).
+
+<p align="center">
+  <img
+   src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+       alt="ALX Africa Logo"
+  >
+</p>
+
+
