@@ -64,7 +64,7 @@ builders.c  helper.c   hsh          README.md  test
 
 ## Authors :black_nib:
 
-[Prince Solomon](https://github.com/princexz) and [Thulile Makhubela](https://github.com/shadowpro2088)
+[Prince Solomon](https://github.com/princexz) and [Thulile Makhubela](https://github.com/shadowp2066)
 
 ## Acknowledgements :pray:
 
