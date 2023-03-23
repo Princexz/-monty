@@ -57,7 +57,7 @@ The functions used are:
 ### Examples
 
 ```console
-$lexxyla> ls
+$princexz> ls
 basics.c    general.c  main.h  memory.c   shell.c
 builders.c  helper.c   hsh          README.md  test
 ```
